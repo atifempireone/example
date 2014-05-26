@@ -1,4 +1,4 @@
-EmpireOne Example Project Heading
+example
 =======
 
-Michael changes the example project heading
+Example Repo
