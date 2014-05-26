@@ -1,4 +1,4 @@
-example
+Michael Creates Conflict
 =======
 
-Example Repo
+Conflict Conflict
